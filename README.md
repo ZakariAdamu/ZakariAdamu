@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ojonimizakari" target="blank"><img src="https://img.shields.io/twitter/follow/ojonimizakari?logo=twitter&style=for-the-badge" alt="ojonimizakari" /></a> </p>
 
-- 🔭 I’m currently **looking for paid jobs**
+- 🔭 I’m currently **looking for jobs**
 
 - 🌱 Learning **Mobile development and Typescript. Proficient in JavaScript and frameworks like React/Next.js.**
 
