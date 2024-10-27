@@ -1,7 +1,7 @@
 
 [![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zakari Adamu</h1>
-<h3 align="center">A passionate Software developer from Nigeria</h3>
+<h3 align="center">A creative Software developer :)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariadamu&label=Profile%20views&color=0e75b6&style=flat" alt="zakariadamu" /> </p>
